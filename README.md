@@ -8,4 +8,4 @@ Named Entity Recognition: https://colab.research.google.com/drive/13GbgR9RL2wdyP
 Zero Shot Classification: https://colab.research.google.com/drive/1NbXbRn1Xuw39-LXI-OTxGmcv6EBIb6Nm?usp=sharing<br>
 Sentiment Analysis and Sentence Similarity: Deleted<br>
 Multi Label: Deleted<br>
-Videos: 
+Videos: https://drive.google.com/drive/folders/1sQGVHSm4sXMWZ9H96QcQ2tI4Tfg40yvx?usp=sharing
